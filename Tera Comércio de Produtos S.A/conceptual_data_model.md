@@ -7,7 +7,7 @@ The customer does not want any information regarding sales or inventory, he only
 ### CLIENT
 
 * NAME  
-* SOCIAL SECURITY 
+* SSN (SOCIAL SECURITY NUMBER)
 * EMAIL  
 * TELEPHONE  
 * ADDRESS  
