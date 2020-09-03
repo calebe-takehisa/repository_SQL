@@ -3,7 +3,7 @@ The customer requested a table to store the books that are sold. The request is 
 After creating the table, we must deliver some queries ready for them to be sent to the programmer.
 
 
-#### QUERY
+#### QUERIES
 
 * Bring all the data.
 * Bring the name of the book and the name of the publisher.
