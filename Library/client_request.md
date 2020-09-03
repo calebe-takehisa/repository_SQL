@@ -1,6 +1,6 @@
 # CLIENT REQUEST
 The customer requested a table to store the books that are sold. The request is only for books and there is no need to search for other tables. It was then decided to create a MySQL database.
-After creating the table, we must deliver some queries ready for them to be sent to the programmer. The queries are:
+After creating the table, we must deliver some queries ready for them to be sent to the programmer.
 
 
 #### QUERY
