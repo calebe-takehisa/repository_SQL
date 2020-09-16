@@ -3,5 +3,5 @@
 </p>
 
 
-# Introduction
-* This is my code repository for SQL lessons, I will also be adding some of my SQL skills here. I am placing all projects separating by folders in the same repository, so that it is easier to generate a link to attach to my portfolio separating by content. (Python, SQL, and others)
+# Introdução
+Este é meu repositório de código para aulas de SQL, também adicionarei algumas de minhas habilidades em SQL aqui. Estou colocando todos os projetos separados por pastas no mesmo repositório, para que seja mais fácil gerar um link para anexar ao meu portfólio separando por conteúdo. (Python, SQL e outros)
